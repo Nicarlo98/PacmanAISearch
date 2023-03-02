@@ -1,0 +1,15 @@
+class: "CapsuleTest"
+algorithm: "ida"
+
+layoutName: "capsuleA2"
+layout: """
+%%%%%%%%%
+%.  . % %
+%o%%. % %
+%o o P%.%
+%ooo    %
+%%%%%%%%%
+"""
+basePoints: "0"
+indicativePoints: "1"
+gradingThresholds: "8458 30820 132449 2429728"
