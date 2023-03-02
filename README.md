@@ -1,3 +1,24 @@
+This was an assignment from 2022 Sem1, had a lot of fun with it.
+I have checked with my lecuturer and received an okay to have this public, as the original code was already public.
+
+Had difficulty importing the original repo, so i've most of it from my local copy.
+The sections that I coded can mostly be found here:
+
+search.py
+
+ln75 	depthFirstSearch
+ln159 uniformCostSearch
+ln225	enforcedHillClimbing
+ln268	idaStarSearch
+
+searchAgents.py
+
+ln551 CapsuleSearchProblem
+ln638	capsuleProblemHeuristic
+ln663	manhattanCapsuleDistance
+
+I'm quite happy with how I went for the last task, the sections in searchAgents. Took me a while, and some brainstorming with a mate, but was able to make figure it out!
+
 # COMP90054 AI Planning for Autonomy - Assignment 1 - Search 
 
 You must read fully and carefully the assignment specification and instructions detailed in this file. You are NOT to modify this file in any way.
